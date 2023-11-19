@@ -1,0 +1,15 @@
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\bin\Debug\net6.0\TheBattleOfWar.exe
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\bin\Debug\net6.0\TheBattleOfWar.deps.json
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\bin\Debug\net6.0\TheBattleOfWar.runtimeconfig.json
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\bin\Debug\net6.0\TheBattleOfWar.dll
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\bin\Debug\net6.0\TheBattleOfWar.pdb
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\TheBattleOfWar.csproj.AssemblyReference.cache
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\TheBattleOfWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\TheBattleOfWar.AssemblyInfoInputs.cache
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\TheBattleOfWar.AssemblyInfo.cs
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\TheBattleOfWar.csproj.CoreCompileInputs.cache
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\TheBattleOfWar.dll
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\refint\TheBattleOfWar.dll
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\TheBattleOfWar.pdb
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\TheBattleOfWar.genruntimeconfig.cache
+C:\Users\Whysoezzy\RiderProjects\TheBattleOfWar\TheBattleOfWar\obj\Debug\net6.0\ref\TheBattleOfWar.dll
